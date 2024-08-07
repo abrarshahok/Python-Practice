@@ -11,7 +11,7 @@ def sortList(lis):
 def addNums(*args):
     sum = 0
     for num in args:
-        sum += num;
+        sum += num
     return sum
 
 def printValues(**args):
